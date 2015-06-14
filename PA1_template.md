@@ -184,3 +184,4 @@ with(mean_by_day_type, plot(intervals, weekday, type='l', ylim=c(0, 250)))
 ![](PA1_template_files/figure-html/unnamed-chunk-11-1.png) 
 
 You can see by inspecting the y-axis bounds that earlier in the day, more steps are taken during the weekdays than the weekends.  And later in the day, more steps are taken during the weekends than the weekdays.
+
